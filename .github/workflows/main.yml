@@ -26,6 +26,11 @@ jobs:
     - name: Build
       run: npm run build
 
+    - name: Create env file 
+      run: | 
+        touch .env
+        echo REACT_APP_API_KEY=${{ secrets.REACT_APP_API_KEY }} >> env
+
     - name: Deploy
       run: |
         git config --global user.name catoz
