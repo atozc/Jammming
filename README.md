@@ -2,6 +2,11 @@
 
 [![Build and Deploy](https://github.com/atozc/Jammming/actions/workflows/main.yml/badge.svg)](https://github.com/atozc/Jammming/actions/workflows/main.yml)
 
+## Deployment 
+Created a CI/CD workflow on Github Actions to automatically build and deploy the app on every commit. 
+<br>
+[View here](https://atozc.github.io/Jammming)
+
 ## Introduction 
 A React web app that uses the [Spotify API](https://developer.spotify.com/documentation/web-api/) to allow users to search Spotify, create a custom playlist, modify existing playlists, and then save the playlist to their Spotify accounts. 
 Note: Requires having a Spotify account for playlists to be saved.
