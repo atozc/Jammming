@@ -3,7 +3,7 @@
 ## Deployment 
 [![Build and Deploy](https://github.com/atozc/Jammming/actions/workflows/main.yml/badge.svg)](https://github.com/atozc/Jammming/actions/workflows/main.yml)
 <br>
-Created a CI/CD workflow on Github Actions to automatically build and deploy the app on every commit. 
+Created a CI/CD workflow on Github Actions to automatically build and deploy the app to Github Pages on every commit. 
 <br>
 [View here](https://atozc.github.io/Jammming)
 
